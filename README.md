@@ -1,5 +1,5 @@
 # Industrial-Laser-Interpreter
-This is a script that is used to communicate between the DPSS Laser and another machine. 
+A script to establish RS-232 Serial communication between a Raspberry Pi 3 and an industrial laser device.
 
 ## Brief Summary
 The machine sends commands to the interpreter. The interpreter reads these commands, massages them into a form that can be read by the Laser
